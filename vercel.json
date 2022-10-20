@@ -1,0 +1,12 @@
+{
+    "routes" : [
+        {
+            "src" : "/" ,
+            "dest" : "/api/ndizihiwe.js" 
+        } ,
+        {
+            "src" : "/ndizihiwe" ,
+            "dest" : "/api/ndizihiwe.js"
+        }
+    ]
+}

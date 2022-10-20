@@ -1,3 +1,2 @@
-// run `node index.js` in the terminal
-
-console.log(`Hello Node.js v${process.versions.node}!`);
+// Searching for info about ndizihiwe regis ? 
+// goto https://ndzhw-i-serverless-fx.vercel.app/api/ndizihiwe
