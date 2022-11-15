@@ -1,4 +1,4 @@
-### ndzhw-i-serverless-fx
+### personal serverless function
 ___________
 
 Get info about me using this serverless function  
