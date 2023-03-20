@@ -2,18 +2,18 @@ export default (req, res) => {
   if (req.method === 'GET') {
     return res.json({
       name: 'NDIZIHIWE Regis',
-      bio: 'Junior software developer studying at Rwanda Coding Academy ',
+      bio: 'Software developer and Graphic designer, student  at @RwCodingAcademy',
       email: 'ndizihiweregis06@gmail.coom',
       contacts: {
-        instagram: 'rxxcs.ui',
-        twitter: 'ndizihiwe_r',
+        instagram: 'ndzhwr_',
+        twitter: 'ndzhwr',
       },
     });
   } else {
     return res.json({
       status: 404,
-      message: 'Inncorrect http method',
-      sucess: false,
+      message: `Canno ${req.method}`,
+      success: false,
     });
   }
 };
