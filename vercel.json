@@ -2,11 +2,11 @@
     "routes" : [
         {
             "src" : "/" ,
-            "dest" : "/api/ndizihiwe.js" 
+            "dest" : "/api/index.js" 
         } ,
         {
-            "src" : "/ndizihiwe" ,
-            "dest" : "/api/ndizihiwe.js"
+            "src" : "/" ,
+            "dest" : "/api/index.js"
         }
     ]
 }
