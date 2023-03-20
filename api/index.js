@@ -5,8 +5,8 @@ export default (req, res) => {
       bio: 'Software developer and Graphic designer, student  at @RwCodingAcademy',
       email: 'ndizihiweregis06@gmail.coom',
       contacts: {
-        instagram: 'ndzhwr_',
-        twitter: 'ndzhwr',
+        instagram: '@_ndzhwr',
+        twitter: '@ndzhwr',
       },
     });
   } else {
